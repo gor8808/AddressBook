@@ -23,4 +23,4 @@ You can downlod [backup file](https://github.com/gor8808/AddressBook/tree/master
 
 ## Prototypes
 - [UX prototype](https://www.figma.com/file/Spp7Izo3N3xhnhITjHDHkA/AddressBook?node-id=0:1) 
-- [Database prototype](https://draws
+- [Database prototype](https://drawsql.app/my-doc/diagrams/addressbook)
