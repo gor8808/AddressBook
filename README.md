@@ -7,6 +7,7 @@ This web application act as an ```address book.```
  - Show all addresses
 	 - With table
 	 - With cards
+ - Copy or download all addresses with excel, pdf, CSV or print
  - Detailed search
  - View single address with his QR code
  - Add new address
