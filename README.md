@@ -13,6 +13,7 @@ This web application act as an ```address book.```
  - Add new address
  - Edit address
  - Delete
+ - Custom 404 page not found
 
 ## Dowload
 Database files are located in folder [Database](https://github.com/gor8808/AddressBook/tree/master/Database) 
