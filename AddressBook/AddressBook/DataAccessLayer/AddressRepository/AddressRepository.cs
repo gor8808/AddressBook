@@ -100,6 +100,8 @@ namespace AddressBook.DataAccessLayer.AddressRepository
                 CommandType = CommandType.StoredProcedure
             };
 
+            addressItem.PhysicalAddress ??= string.Empty;
+
             cmd.Parameters.AddWithValue(nameof(addressItem.FullName), addressItem.FullName);
             cmd.Parameters.AddWithValue(nameof(addressItem.Email), addressItem.Email);
             cmd.Parameters.AddWithValue(nameof(addressItem.PhoneNumber), addressItem.PhoneNumber);
@@ -120,6 +122,9 @@ namespace AddressBook.DataAccessLayer.AddressRepository
             {
                 CommandType = CommandType.StoredProcedure
             };
+
+            addressItem.PhysicalAddress ??= string.Empty;
+
 
             cmd.Parameters.AddWithValue(nameof(addressItem.Id), addressItem.Id);
             cmd.Parameters.AddWithValue(nameof(addressItem.FullName), addressItem.FullName);
@@ -173,6 +178,7 @@ namespace AddressBook.DataAccessLayer.AddressRepository
             model.Email ??= string.Empty;
             model.PhoneNumber ??= string.Empty;
             model.PhysicalAddress ??= string.Empty;
+
 
             cmd.Parameters.AddWithValue(nameof(model.FullName), model.FullName);
             cmd.Parameters.AddWithValue(nameof(model.Email), model.Email);
