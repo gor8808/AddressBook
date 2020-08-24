@@ -17,8 +17,12 @@ This web application act as an ```address book.```
 
 ## Dowload
 Database project is located [here](https://github.com/gor8808/AddressBook/tree/master/AddressBook/AddressBookDatabase).
-DB backup and querie files are located in folder [Database](https://github.com/gor8808/AddressBook/tree/master/Database) 
-You can downlod [backup file](https://github.com/gor8808/AddressBook/tree/master/Database/BackupFile) OR [SQL Queries](https://github.com/gor8808/AddressBook/tree/master/Database/Queries)
+
+OR
+
+ - If you want to download [backup file](https://github.com/gor8808/AddressBook/tree/master/Database/BackupFile) go to [/Database/Backup](https://github.com/gor8808/AddressBook/tree/master/Database/BackupFile)
+(https://github.com/gor8808/AddressBook/tree/master/Database) 
+ - For downloading only [SQL Queries](https://github.com/gor8808/AddressBook/tree/master/Database/Queries) go to [/Database/Queries](https://github.com/gor8808/AddressBook/tree/master/Database/Queries)
 
 ## Images
 
