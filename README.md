@@ -16,7 +16,8 @@ This web application act as an ```address book.```
  - Custom 404 page not found
 
 ## Dowload
-Database files are located in folder [Database](https://github.com/gor8808/AddressBook/tree/master/Database) 
+Database project is located [here](https://github.com/gor8808/AddressBook/tree/master/AddressBook/AddressBookDatabase).
+DB backup and querie files are located in folder [Database](https://github.com/gor8808/AddressBook/tree/master/Database) 
 You can downlod [backup file](https://github.com/gor8808/AddressBook/tree/master/Database/BackupFile) OR [SQL Queries](https://github.com/gor8808/AddressBook/tree/master/Database/Queries)
 
 ## Images
