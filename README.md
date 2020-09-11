@@ -15,7 +15,7 @@ This web application act as an ```address book.```
  - Delete
  - Custom 404 page not found
 
-## Dowload
+## Download
 Database project is located [here](https://github.com/gor8808/AddressBook/tree/master/AddressBook/AddressBookDatabase).
 
 OR
